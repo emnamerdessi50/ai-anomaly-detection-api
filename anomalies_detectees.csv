@@ -1,0 +1,2 @@
+anomaly_index,test_loss,top_col_1,diff_1,top_col_2,diff_2,top_col_3,diff_3,top_col_4,diff_4,top_col_5,diff_5
+98,0.017833621606054867,method_POST,0.9987708242842928,client_::1,0.9981471300125122,timestamp_2025-08-10T10:00:00.000Z,0.997418079059571,method_GET,0.9972958564758301,endpoint_/test-post,0.9972209401894361
